@@ -1,7 +1,40 @@
-# AIDAS Lab Project Page Template
+# Don’t Let It Fade: Preserving Edits in Diffusion Language Models via Token Timestep Allocation
 
-This repository hosts the source code for the AIDAS Lab Project Page.
-The template was originally derived from [Nerfies](https://nerfies.github.io).
+This repository contains the official implementation for the paper:  
+**"Don’t Let It Fade: Preserving Edits in Diffusion Language Models via Token Timestep Allocation"**
 
-# Website License
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+📜 **News**  
+- [2025.09.19] 🎉🎉 Our paper *"Don’t Let It Fade: Preserving Edits in Diffusion Language Models via Token Timestep Allocation"* is accepted at **NeurIPS 2025**!
+
+---
+
+## Setup
+```bash
+# to be done
+```
+
+---
+
+## How to Run
+```bash
+# to be done
+```
+
+---
+
+## Citation
+If you find our work useful, please cite:
+```bibtex
+@inproceedings{kim2025tta_diffusion,
+  title={Don’t Let It Fade: Preserving Edits in Diffusion Language Models via Token Timestep Allocation},
+  author={Kim, WJ and Others},
+  booktitle={Advances in Neural Information Processing Systems (NeurIPS)},
+  year={2025}
+}
+```
+
+---
+
+## 📧 Contact
+For questions or collaborations, feel free to reach out:  
+**wjk9904@snu.ac.kr**
