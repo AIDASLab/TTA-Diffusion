@@ -35,11 +35,11 @@ conda env create -file sdlm.yaml
 ## Citation
 If you find our work useful, please cite:
 ```bibtex
-@inproceedings{kim2025tta_diffusion,
-  title={Don’t Let It Fade: Preserving Edits in Diffusion Language Models via Token Timestep Allocation},
-  author={Kim, WJ and Others},
-  booktitle={Advances in Neural Information Processing Systems (NeurIPS)},
-  year={2025}
+@inproceedings{kim2025tta,
+  title     = {Don’t Let It Fade: Preserving Edits in Diffusion Language Models via Token Timestep Allocation},
+  author    = {Kim, Woojin and Do, Jaeyoung},
+  booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
+  year      = {2025}
 }
 ```
 
