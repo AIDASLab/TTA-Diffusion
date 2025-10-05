@@ -12,7 +12,8 @@ This repository contains the official implementation for the paper:
 
 ## Setup
 ```bash
-# to be done
+git clone https://github.com/AIDASLab/TTA-Diffusion.git
+conda env create -file sdlm.yaml
 ```
 
 ---
