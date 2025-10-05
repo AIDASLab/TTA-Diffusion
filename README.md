@@ -18,6 +18,13 @@ conda env create -file sdlm.yaml
 
 ---
 
+## How to Train
+```bash
+# to be done
+```
+
+---
+
 ## How to Run
 ```bash
 # to be done
