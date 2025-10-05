@@ -3,6 +3,8 @@
 This repository contains the official implementation for the paper:  
 **"Don’t Let It Fade: Preserving Edits in Diffusion Language Models via Token Timestep Allocation"**
 
+🌐 [**Project Page**](https://aidaslab.github.io/TTA-Diffusion/)
+
 📜 **News**  
 - [2025.09.19] 🎉🎉 Our paper *"Don’t Let It Fade: Preserving Edits in Diffusion Language Models via Token Timestep Allocation"* is accepted at **NeurIPS 2025**!
 
